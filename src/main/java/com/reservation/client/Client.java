@@ -9,7 +9,7 @@ import jakarta.persistence.PrePersist;
 import jakarta.persistence.Table;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
-dupa
+import lombok.Getter;
 import lombok.NoArgsConstructor;
 
 import java.time.Instant;
